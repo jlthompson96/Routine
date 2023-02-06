@@ -15,3 +15,4 @@ Routine is a exercise wellness designed to help people live a happier and health
 - CSS <img align="left" alt="CSS3" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/css.svg" />
 - JavaScript <img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/javascript.svg" />
 - Gradle <img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/gradle.svg" />
+- MongoDB <img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/mint.svg" />
